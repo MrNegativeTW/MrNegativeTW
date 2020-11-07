@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+
 - 🔭 I’m currently working on a road report platform
 - 🌱 I’m currently learning Android, Kotlin and maybe some golang in the near future?
 - 👯 I’m looking to collaborate on nothing... QAQ
@@ -10,4 +11,8 @@
 - 😄 Pronouns: T or Trevor or whatever
 - ⚡ Fun fact: 在非洲，每一分鐘就有 60 秒過去。
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnegativetw&theme=graywhite)
+![](https://github-readme-stats.vercel.app/api?username=mrnegativetw&theme=vue-dark)
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnegativetw&hide=html&layout=compact&theme=vue-dark)
