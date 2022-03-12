@@ -15,6 +15,6 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnegativetw&hide=html&layout=compact&theme=vue-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnegativetw&hide=html,swift&layout=compact&theme=vue-dark)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wowpapa3232&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
