@@ -11,6 +11,8 @@
 - 😄 Pronouns: T or Trevor or whatever
 - ⚡ Fun fact: 在非洲，每一分鐘就有 60 秒過去。
 
+![](https://komarev.com/ghpvc/?username=mrnegativetw&style=flat-square)
+
 ![](https://github-readme-stats.vercel.app/api?username=mrnegativetw&theme=vue-dark)
 
 <br>
