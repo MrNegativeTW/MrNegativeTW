@@ -2,6 +2,8 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+<br>
 ![](https://img.shields.io/badge/build-failed,%20just%20like%20your%20life%20lol-red.svg?style=flat-square)
 ![](https://komarev.com/ghpvc/?username=mrnegativetw&style=flat-square)
 
@@ -12,7 +14,7 @@
 - 💬 Ask me about ANYTHING.
 - 📫 How to reach me: [Telegram](https://t.me/TrevorWu)
 - 😄 Pronouns: T or Trevor or whatever
-- ⚡ Fun fact: 在非洲，每一分鐘就有 60 秒過去。
+- ⚡ Fun fact: Every 60 Seconds in Africa a Minute Passes.
 
 ![](https://github-readme-stats.vercel.app/api?username=mrnegativetw&theme=vue-dark)
 
