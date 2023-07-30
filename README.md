@@ -5,7 +5,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
 <br>
 ![](https://img.shields.io/badge/build-failed,%20just%20like%20your%20life%20lol-red.svg?style=flat-square)
-![](htt://komarev.com/ghpvc/?username=mrnegativetw&style=flat-square)
+![](https://komarev.com/ghpvc/?username=mrnegativetw&style=flat-square)
 
 - 💬 Ask me about ANYTHING.
 - 📫 How to reach me: [Telegram](https://t.me/TrevorWu)
